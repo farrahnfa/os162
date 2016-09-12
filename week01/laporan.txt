@@ -1,0 +1,1 @@
+This week we are learning about how to get used to git, making folder, and use text editor.

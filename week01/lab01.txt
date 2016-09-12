@@ -17,3 +17,6 @@ drwxr-xr-x  2 farrah.hunafa StafCS 4096 Sep 12 21:30 week08
 drwxr-xr-x  2 farrah.hunafa StafCS 4096 Sep 12 21:30 week09
 drwxr-xr-x  2 farrah.hunafa StafCS 4096 Sep 12 21:30 week10
 /home/fasilkom/mahasiswa/f/farrah.hunafa/os162/week01
+Today is 
+Today is 
+Today is 12 Sep 2016 at 23:02:25

@@ -1,0 +1,19 @@
+total 64
+drwxr-xr-x 15 farrah.hunafa StafCS 4096 Sep 12 22:20 .
+drwx--x--x  3 farrah.hunafa StafCS 4096 Sep 12 21:18 ..
+drwxr-xr-x  8 farrah.hunafa StafCS 4096 Sep 12 22:17 .git
+-rw-r--r--  1 farrah.hunafa StafCS    0 Sep 12 22:22 lab01.txt
+-rw-r--r--  1 farrah.hunafa StafCS    7 Sep 12 21:19 README.md
+drwxr-xr-x  2 farrah.hunafa StafCS 4096 Sep 12 21:37 SandBox
+drwxr-xr-x  2 farrah.hunafa StafCS 4096 Sep 12 22:19 week00
+drwxr-xr-x  2 farrah.hunafa StafCS 4096 Sep 12 21:27 week01
+drwxr-xr-x  2 farrah.hunafa StafCS 4096 Sep 12 21:28 week02
+drwxr-xr-x  2 farrah.hunafa StafCS 4096 Sep 12 21:29 week03
+drwxr-xr-x  2 farrah.hunafa StafCS 4096 Sep 12 21:29 week04
+drwxr-xr-x  2 farrah.hunafa StafCS 4096 Sep 12 21:29 week05
+drwxr-xr-x  2 farrah.hunafa StafCS 4096 Sep 12 21:29 week06
+drwxr-xr-x  2 farrah.hunafa StafCS 4096 Sep 12 21:29 week07
+drwxr-xr-x  2 farrah.hunafa StafCS 4096 Sep 12 21:30 week08
+drwxr-xr-x  2 farrah.hunafa StafCS 4096 Sep 12 21:30 week09
+drwxr-xr-x  2 farrah.hunafa StafCS 4096 Sep 12 21:30 week10
+/home/fasilkom/mahasiswa/f/farrah.hunafa/os162/week01
